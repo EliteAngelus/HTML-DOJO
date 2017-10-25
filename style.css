@@ -1,0 +1,23 @@
+
+.first-word{color: blue;}
+
+.titles { text-align: center; color: powderblue; background-color: black;}
+
+.pictures { margin: auto; display: block; border: 10px solid  grey;}
+
+.gif{display: block; margin: auto; width: 400px; margin-top: 20px;}
+            
+#content{ float:left; margin: 100px; padding: 15px;}
+
+#stuff {font-family: cursive;}
+
+.information {line-height: 1.5em; font-family: monospace; text-align: center; margin-left: 20px; margin-right: 20px;} 
+
+#heading {text-align:center; font-family: sans-serif; border: 10px ridge grey; color: steelblue; }
+
+.list {background-color: steelblue; color: black;}
+
+body { background: azure;} 
+
+
+   
