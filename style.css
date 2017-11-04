@@ -1,3 +1,5 @@
+body { background: azure;}
+
 .first-word{color: blue;}
 
 .titles { text-align: center; color: powderblue; background-color: black;}
@@ -5,8 +7,6 @@
 .pictures { margin: auto; display: block; border: 10px solid  grey;}
 
 .gif{display: block; margin: auto; width: 400px; margin-top: 20px;}
-            
-#content{ float:left; margin: 100px; padding: 15px;}
 
 #stuff {font-family: cursive;}
 
@@ -15,8 +15,7 @@
 #heading {text-align:center; font-family: sans-serif; border: 10px ridge grey; color: steelblue; }
 
 .list {background-color: steelblue; color: black;}
-
-body { background: azure;} 
+ 
 
 
    
