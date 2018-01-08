@@ -1,39 +1,67 @@
 body { background: azure;}
 
-header{		
+/*header{		
 
-	text-align: center;
+	background-color: azure;
+	border-bottom: solid;
+	border-radius: 5px;
+	height: 10%;
 	font-size: 25px; 
 	font-weight: bold;
-	background-color: azure;
+	position: fixed;
+  	top: 0;
+  	width: 100%
+*/
+/*}*/
 
+#navigation{
+	position: fixed;
+  	top: 0;
+  	width: 100%;
 }
 
-nav{
+button{
+	border-radius: 5px;
+}
+
+#navi
+{
 	float: left;
 	position: fixed;
 	padding: auto;
 	margin-top: 50px;	
+	padding-top: 5%;
 }
 
 
+
+
 #container{
-			width: 800px;	
-			margin-left:200px;
-			margin-right: auto;
-			padding: 50px;
+	width: 800px;
+	padding: 50px;
+	margin: auto;
+	padding-top: 10%;
+	margin-right: 10%;
+
 
 }
 
 .first-word{color: blue;}
 
-.titles { text-align: center; 
-		color: powderblue; 
-		background-color: black;}
+.titles { 
+	text-align: center;
+	font-family: 'Poppins', sans-serif; 
+	padding: 5px;
 
-.pictures { margin: auto; 
-			 display: block;
-			 border: 10px solid  grey;}
+		}
+
+.pictures { 
+	margin: auto; 
+	display: block;
+	border: 10px solid  grey;
+	padding: 5px;
+
+}
 
 .gif{display: block; 
 		margin: auto; 
@@ -42,23 +70,20 @@ nav{
 
 #stuff {font-family: cursive;}
 
-.information {line-height: 1.5em; 
-		font-family: monospace; 
-		text-align: center; 
-		margin-left: 20px; 
-		margin-right: 20px;} 
+.information {
+	line-height: 1.5em; 
+	font-family: 'Raleway', sans-serif;	
+	font-size: 15px;
+	text-align: center; 
+	margin-left: 20px; 
+	margin-right: 20px;
 
-/*#heading {text-align:center; font-family: sans-serif; border: 10px ridge grey; color: steelblue;}*/
-	
-.list {background-color: steelblue; color: black;}
-/*
-.top{
-	width: 800px;
-	margin-left: 300px;
-	margin-right: auto; 
+} 
 
+footer{
+	text-align: center;
+}
 
-}*/
 
 
 
